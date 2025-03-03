@@ -1,0 +1,7 @@
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtChetniChisla\bin\Debug\SpisukOtChetniChisla.exe.config
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtChetniChisla\bin\Debug\SpisukOtChetniChisla.exe
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtChetniChisla\bin\Debug\SpisukOtChetniChisla.pdb
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtChetniChisla\obj\Debug\SpisukOtChetniChisla.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtChetniChisla\obj\Debug\SpisukOtChetniChisla.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtChetniChisla\obj\Debug\SpisukOtChetniChisla.exe
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtChetniChisla\obj\Debug\SpisukOtChetniChisla.pdb

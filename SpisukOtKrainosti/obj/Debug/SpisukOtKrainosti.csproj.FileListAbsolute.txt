@@ -1,0 +1,7 @@
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtKrainosti\bin\Debug\SpisukOtKrainosti.exe.config
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtKrainosti\bin\Debug\SpisukOtKrainosti.exe
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtKrainosti\bin\Debug\SpisukOtKrainosti.pdb
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtKrainosti\obj\Debug\SpisukOtKrainosti.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtKrainosti\obj\Debug\SpisukOtKrainosti.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtKrainosti\obj\Debug\SpisukOtKrainosti.exe
+C:\Users\drago\source\repos\SpisuciDImashna2\SpisukOtKrainosti\obj\Debug\SpisukOtKrainosti.pdb
