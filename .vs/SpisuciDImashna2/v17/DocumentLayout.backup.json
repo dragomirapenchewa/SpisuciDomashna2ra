@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\drago\\source\\repos\\SpisuciDImashna2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2CDCC80-6682-4E64-BF24-F5BD646B35BA}|Pozdraw\\Pozdraw.csproj|c:\\users\\drago\\source\\repos\\spisucidimashna2\\pozdraw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CDCC80-6682-4E64-BF24-F5BD646B35BA}|Pozdraw\\Pozdraw.csproj|solutionrelative:pozdraw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE96BEB3-947F-451F-B59C-CD7E7B1555B9}|SpisukOtKrainosti\\SpisukOtKrainosti.csproj|c:\\users\\drago\\source\\repos\\spisucidimashna2\\spisukotkrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE96BEB3-947F-451F-B59C-CD7E7B1555B9}|SpisukOtKrainosti\\SpisukOtKrainosti.csproj|solutionrelative:spisukotkrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D229DA1-878B-4C36-BB7C-99265435BDAA}|MaxPoredicaOtChisla\\MaxPoredicaOtChisla.csproj|c:\\users\\drago\\source\\repos\\spisucidimashna2\\maxporedicaotchisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D229DA1-878B-4C36-BB7C-99265435BDAA}|MaxPoredicaOtChisla\\MaxPoredicaOtChisla.csproj|C:\\Users\\drago\\source\\repos\\SpisuciDImashna2\\maxporedicaotchisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D229DA1-878B-4C36-BB7C-99265435BDAA}|MaxPoredicaOtChisla\\MaxPoredicaOtChisla.csproj|solutionrelative:maxporedicaotchisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4171E20-4C85-4C68-AF1F-1DBBE705A637}|SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj|c:\\users\\drago\\source\\repos\\spisucidimashna2\\spisukotchetnichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4171E20-4C85-4C68-AF1F-1DBBE705A637}|SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj|C:\\Users\\drago\\source\\repos\\SpisuciDImashna2\\spisukotchetnichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4171E20-4C85-4C68-AF1F-1DBBE705A637}|SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj|solutionrelative:spisukotchetnichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\SpisuciDImashna2\\Pozdraw\\Program.cs",
+              "RelativeDocumentMoniker": "Pozdraw\\Program.cs",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\SpisuciDImashna2\\Pozdraw\\Program.cs",
+              "RelativeToolTip": "Pozdraw\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:00:39.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\SpisuciDImashna2\\MaxPoredicaOtChisla\\Program.cs",
               "RelativeDocumentMoniker": "MaxPoredicaOtChisla\\Program.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "MaxPoredicaOtChisla\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T18:12:29.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T18:12:29.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\SpisuciDImashna2\\SpisukOtKrainosti\\Program.cs",
               "RelativeDocumentMoniker": "SpisukOtKrainosti\\Program.cs",
@@ -52,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\SpisuciDImashna2\\SpisukOtChetniChisla\\Program.cs",
               "RelativeDocumentMoniker": "SpisukOtChetniChisla\\Program.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "SpisukOtChetniChisla\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T17:30:30.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T17:30:30.489Z"
             }
           ]
         }

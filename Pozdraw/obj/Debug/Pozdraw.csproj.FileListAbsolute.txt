@@ -1,0 +1,7 @@
+C:\Users\drago\source\repos\SpisuciDImashna2\Pozdraw\bin\Debug\Pozdraw.exe.config
+C:\Users\drago\source\repos\SpisuciDImashna2\Pozdraw\bin\Debug\Pozdraw.exe
+C:\Users\drago\source\repos\SpisuciDImashna2\Pozdraw\bin\Debug\Pozdraw.pdb
+C:\Users\drago\source\repos\SpisuciDImashna2\Pozdraw\obj\Debug\Pozdraw.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\SpisuciDImashna2\Pozdraw\obj\Debug\Pozdraw.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\SpisuciDImashna2\Pozdraw\obj\Debug\Pozdraw.exe
+C:\Users\drago\source\repos\SpisuciDImashna2\Pozdraw\obj\Debug\Pozdraw.pdb

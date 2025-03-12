@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpisukOtKrainosti", "Spisuk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxPoredicaOtChisla", "MaxPoredicaOtChisla\MaxPoredicaOtChisla.csproj", "{7D229DA1-878B-4C36-BB7C-99265435BDAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pozdraw", "Pozdraw\Pozdraw.csproj", "{B2CDCC80-6682-4E64-BF24-F5BD646B35BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7D229DA1-878B-4C36-BB7C-99265435BDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D229DA1-878B-4C36-BB7C-99265435BDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D229DA1-878B-4C36-BB7C-99265435BDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CDCC80-6682-4E64-BF24-F5BD646B35BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CDCC80-6682-4E64-BF24-F5BD646B35BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CDCC80-6682-4E64-BF24-F5BD646B35BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CDCC80-6682-4E64-BF24-F5BD646B35BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
